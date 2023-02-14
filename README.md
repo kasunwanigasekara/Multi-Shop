@@ -16,7 +16,7 @@
 
 ## Special notes.
 
-* No loging authentications are useded in the system.
+* No loging authentications are used in the system.
 * Since there are no users in the system, all shipping details are required to be saved in the database(including all user data).
 * Database tables are indexed to speed-up the quary execution.
 * Forign keys are useded in the database tables in order to create link between tabls.
