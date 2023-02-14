@@ -1,0 +1,17 @@
+{
+    "name": "kasun/multishop",
+    "description": "multishop shopping cart",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Multishop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Doe",
+            "email": "kasunwanigasekara@gmail.com"
+        }
+    ],
+    "require": {}
+}
